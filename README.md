@@ -2,9 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=blue&style=flat)
 ## 🚀 About Me
-- 🎯 𝒜𝓈𝓅𝒾𝓇𝒾𝓃ℊ ℱ𝓊𝓁𝓁-𝒮𝓉𝒶𝒸𝓀 𝒟ℯ𝓋ℯ𝓁ℴ𝓅ℯ𝓇
-- 🔍 𝓦𝓮𝓫 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽 𝓔𝓷𝓽𝓱𝓾𝓼𝓲𝓪𝓼𝓽, 𝓹𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓪𝓫𝓸𝓾𝓽 𝓫𝓾𝓲𝓵𝓭𝓲𝓷𝓰 𝓼𝓬𝓪𝓵𝓪𝓫𝓵𝓮 𝓪𝓹𝓹𝓵𝓲𝓬𝓪𝓽𝓲𝓸𝓷𝓼
-- 📊 𝓒𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓲𝓷𝓽𝓮𝓻𝓷𝓲𝓷𝓰 𝓪𝓽 **𝓗𝓪𝓬𝓴𝓥𝓮𝓭𝓪 𝓛𝓲𝓶𝓲𝓽𝓮𝓭** 𝓪𝓼 𝓪 𝓓𝓪𝓽𝓪 𝓐𝓷𝓪𝓵𝔂𝓼𝓽
+- 🎯 Aspiring Full-Stack Developer
+- 🔍 Web Development Enthusiast, passionate about building scalable applications
+- 📊 Currently interning at **HackVeda Limited** as a Data Analyst
 
 ## 🛠 Tech Stack
 
