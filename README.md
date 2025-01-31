@@ -37,6 +37,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ## 📈 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NILESH-2003&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NILESH-2003&theme=tokyonight)
 ![Coding Days](https://github-readme-stats.vercel.app/api?username=NILESH-2003&show_icons=true&theme=tokyonight&count_private=true)
 
