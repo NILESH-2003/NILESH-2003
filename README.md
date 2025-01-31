@@ -3,9 +3,7 @@
 ## 🚀 About Me
 - 🎯 Aspiring Full-Stack Developer (MERN & Spring Boot)
 - 🔍 Passionate about Market Research & Software Quality Assurance
-- 📊 Currently interning at **Naarg Media** as a Market Research Analyst
-- 💡 Building **FindMyNotes** – A full-stack MERN project for secure document storage
-- 🛠 Working on a **Summarization System using LLMs**
+- 📊 Currently interning at **HackVeda Limited** as a Data Analyst
 
 ## 🛠 Tech Stack
 
