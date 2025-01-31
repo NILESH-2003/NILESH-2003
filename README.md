@@ -20,6 +20,14 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
 
+### 🔹 Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-8A1A2A?style=flat&logo=powerbi&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ## 📈 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight)
