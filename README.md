@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ｎℹ𝓵ₑ𝚜ん®𝘢𝑛ⓙ@𝑛
+# Hi there! 👋 I'm Ｎℹ𝓵ₑ𝚜ん ®𝘢𝑛ⓙ@𝑛
 
 ## 🚀 About Me
 - 🎯 Aspiring Full-Stack Developer (MERN & Spring Boot)
