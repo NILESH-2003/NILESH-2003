@@ -30,8 +30,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ## 📈 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight)
-![Coding Days](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NILESH-2003&theme=tokyonight)
+![Coding Days](https://github-readme-stats.vercel.app/api?username=NILESH-2003&show_icons=true&theme=tokyonight&count_private=true)
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nira21cs)
