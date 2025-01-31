@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=blue&style=flat)
 ## 🚀 About Me
 - 🎯 Aspiring Full-Stack Developer (MERN)
-- 🔍 Passionate about Market Research & Software Quality Assurance
+- 🔍 Web Development Enthusiast, passionate about building scalable applications
 - 📊 Currently interning at **HackVeda Limited** as a Data Analyst
 
 ## 🛠 Tech Stack
@@ -15,19 +15,19 @@
 ### 🔹 Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
 ### 🔹 Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-F4A261?style=flat&logo=cloudinary&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
+
 
 ## 📈 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight)
 ![Coding Days](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&count_private=true)
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nira21cs)
+<!--[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)-->
 
 ---
 💡 _"Code. Research. Innovate."_ 🚀
