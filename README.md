@@ -1,7 +1,8 @@
 # Hi there! 👋 I'm Ｎℹ𝓵ₑ𝚜ん ®𝘢𝑛ⓙ@𝑛
 
+![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=blue&style=flat)
 ## 🚀 About Me
-- 🎯 Aspiring Full-Stack Developer (MERN & Spring Boot)
+- 🎯 Aspiring Full-Stack Developer (MERN)
 - 🔍 Passionate about Market Research & Software Quality Assurance
 - 📊 Currently interning at **HackVeda Limited** as a Data Analyst
 
