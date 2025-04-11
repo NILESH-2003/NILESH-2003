@@ -4,7 +4,7 @@
 ## 🚀 About Me
 - 🎯 Aspiring Full-Stack Developer
 - 🔍 Web Development Enthusiast, passionate about building scalable applications
-- 📊 Currently interning at **HackVeda Limited** as a Data Analyst
+- 📊 Intern at **MSG Global Solutions** 
 
 ## 🛠 Tech Stack
 
