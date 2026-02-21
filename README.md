@@ -4,7 +4,7 @@
 ## 🚀 About Me
 - 🎯 Aspiring Full-Stack Developer
 - 🔍 Web Development Enthusiast, passionate about building scalable applications
-- 📊 Intern at **MSG Global Solutions** 
+- 📊 Working at **MSG Global Solutions** 
 
 ## 🛠 Tech Stack
 
